@@ -10,7 +10,7 @@ Robootti lumilinko
 
 ## Alku
 
- Eikö olisikin hienoa että pystyisit pistämään robootin käyntiin, joka työntäisi lumet pois, niinkuin robootti imuri ja robotti ruohonleikkuri. Tämän kaltainen laite voisi auttaa iäkkäämpiä ja fyysisesti kuormittuneita ihmisiä paljon talven lumi onglelmissa. 
+ Eikö olisikin hienoa että pystyisit pistämään robootin käyntiin, joka työntäisi lumet pois, niinkuin robootti-imuri ja robotti ruohonleikkuri. Tämän kaltainen laite voisi auttaa iäkkäämpiä ja fyysisesti kuormittuneita ihmisiä paljon talven lumi ongelmissa. Lumirobotti auttaisi varmasti useita rankkojen lumitöiden teossa.
 
 
 
@@ -23,7 +23,7 @@ Miinukset
 
 Plussat
 * Auttaisi vanhempia ihmisiä jotka eivät jaksa lumilinkoa tai lumikolaa työntämään 
-* Olisi hieno lisäys kotiroboottien lisäykseen
+* Olisi hieno lisäys kotirobootteihin
 * Hyödyllinen suomen kaltaisiin talviin
 
 
