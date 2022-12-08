@@ -15,12 +15,13 @@ Robootti lumilinko
 
 
 ## Background
-
+-
 * Ongelma 1 Olisi, kuinka robotille saisi tälläisen voiman aikaan, joka jaksaisi siirtää suuren määrän lunta
 * Ongelma 2 Kuinka robootti selviäisi keväästä
 * Ongelma 3 HINTA
 * Ongelma 4 Olisiko kuinka turvallinen
 
++
 * Auttaisi vanhempia ihmisiä jotka eivät jaksa lumilinkoa tai lumikolaa työntämään 
 * Olisi hieno lisäys kotiroboottien lisäykseen
 * Hyödyllinen suomen kaltaisiin talviin
@@ -40,7 +41,3 @@ Toimisi samalla tavalla kuin jo kodissa valmiina olevat työrobootit. Eli roboot
 ## Challenges
 
 Kuten lumilinko niin tämäkään ei tuskin pystyisi painavaa / loskaista lunta poistamaan, johon tarvitsisi lumikolan / lumiauran
-
-
-Hienoa olisi jos tämän kaltaisia robootteja pystyisi käyttämään myös kaupungin lumitöiden teossa
-
