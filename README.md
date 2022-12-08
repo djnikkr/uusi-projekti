@@ -16,12 +16,14 @@ Final project for the Building AI course
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* Ongelma 1 olisi, kuinka robotille saisi tälläisen voiman aikaan, joka jaksaisi siirtää suuren määrän lunta
+* Ongelma 1 Olisi, kuinka robotille saisi tälläisen voiman aikaan, joka jaksaisi siirtää suuren määrän lunta
 * Ongelma 2 Kuinka robootti selviäisi keväästä
 * Ongelma 3 HINTA
+* Ongelma 4 Olisiko kuinka turvallinen
+
+* Auttaisi vanhempia ihmisiä jotka eivät jaksa lumilinkoa tai lumikolaa työntämään 
+* Olisi hieno lisäys kotiroboottien lisäykseen
+* Hyödyllinen suomen kaltaisiin talviin
 
 
 
@@ -29,11 +31,10 @@ This is how you make a list, if you need one:
 
 Kuva mahdollisesta robootista
 
-Toimii samalla tavalla kuin muut kodin yleiskone robootit
 
 ![image](https://user-images.githubusercontent.com/119678278/206471429-3a456cca-995b-4789-9d09-f2c3bc47f079.png)
 
-
+Toimisi samalla tavalla kuin jo kodissa valmiina olevat työrobootit. Eli roboottille olisi tietynlainen sovellus, jolla pystyisi rajaamaan työalueen ja käynnistämään koneen sovelluksen kautta.
 
 
 ## Challenges
@@ -43,11 +44,3 @@ Kuten lumilinko niin tämäkään ei tuskin pystyisi painavaa / loskaista lunta 
 
 Hienoa olisi jos tämän kaltaisia robootteja pystyisi käyttämään myös kaupungin lumitöiden teossa
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
