@@ -8,20 +8,20 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Robootti lumilinko
 
-## Summary
+## Alku
 
- Eikö olisikin hienoa että pystyisit pistämään robootin käyntiin, joka työntäisi lumet pois, niinkuin robootti imuri ja robotti ruohonleikkuri. 
+ Eikö olisikin hienoa että pystyisit pistämään robootin käyntiin, joka työntäisi lumet pois, niinkuin robootti imuri ja robotti ruohonleikkuri. Tämän kaltainen laite voisi auttaa iäkkäämpiä ja fyysisesti kuormittuneita ihmisiä paljon talven lumi onglelmissa. 
 
 
 
-## Background
--
+## Käsittelyä
+Miinukset
 * Ongelma 1 Olisi, kuinka robotille saisi tälläisen voiman aikaan, joka jaksaisi siirtää suuren määrän lunta
 * Ongelma 2 Kuinka robootti selviäisi keväästä
 * Ongelma 3 HINTA
 * Ongelma 4 Olisiko kuinka turvallinen
 
-+
+Plussat
 * Auttaisi vanhempia ihmisiä jotka eivät jaksa lumilinkoa tai lumikolaa työntämään 
 * Olisi hieno lisäys kotiroboottien lisäykseen
 * Hyödyllinen suomen kaltaisiin talviin
