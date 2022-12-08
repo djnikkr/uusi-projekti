@@ -20,7 +20,8 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 
 This is how you make a list, if you need one:
 * Ongelma 1 olisi, kuinka robotille saisi tälläisen voiman aikaan, joka jaksaisi siirtää suuren määrän lunta
-* Ongelma 2 HINTA
+* Ongelma 2 Kuinka robootti selviäisi keväästä
+* Ongelma 3 HINTA
 
 
 
@@ -28,33 +29,19 @@ This is how you make a list, if you need one:
 
 Kuva mahdollisesta robootista
 
+Toimii samalla tavalla kuin muut kodin yleiskone robootit
+
 ![image](https://user-images.githubusercontent.com/119678278/206471429-3a456cca-995b-4789-9d09-f2c3bc47f079.png)
 
 
 
 
-
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Kuten lumilinko niin tämäkään ei tuskin pystyisi painavaa / loskaista lunta poistamaan, johon tarvitsisi lumikolan / lumiauran
 
-## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Hienoa olisi jos tämän kaltaisia robootteja pystyisi käyttämään myös kaupungin lumitöiden teossa
 
 
 ## Acknowledgments
