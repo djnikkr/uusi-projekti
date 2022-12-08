@@ -35,7 +35,9 @@ Kuva mahdollisesta robootista
 
 ![image](https://user-images.githubusercontent.com/119678278/206471429-3a456cca-995b-4789-9d09-f2c3bc47f079.png)
 
-Toimisi samalla tavalla kuin jo kodissa valmiina olevat työrobootit. Eli roboottille olisi tietynlainen sovellus, jolla pystyisi rajaamaan työalueen ja käynnistämään koneen sovelluksen kautta.
+* Toimisi samalla tavalla kuin jo kodissa valmiina olevat työrobootit. Eli roboottille olisi tietynlainen sovellus, jolla pystyisi rajaamaan työalueen ja käynnistämään koneen sovelluksen kautta
+* Lumirobotti osaisi itse mennä takaisin latauspisteelle
+* Hoitaisi nopeasti ja näppärästi myös suuremmat alueet lumesta
 
 
 
