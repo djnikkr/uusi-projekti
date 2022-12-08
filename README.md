@@ -16,7 +16,7 @@ Robootti lumilinko
 
 ## Käsittelyä
 Miinukset
-* Ongelma 1 Olisi, kuinka robotille saisi tälläisen voiman aikaan, joka jaksaisi siirtää suuren määrän lunta
+* Ongelma 1 Kuten lumilinko niin tämäkään ei tuskin pystyisi painavaa / loskaista lunta poistamaan, johon tarvitsisi lumikolan / lumiauran
 * Ongelma 2 Kuinka robootti selviäisi keväästä
 * Ongelma 3 HINTA
 * Ongelma 4 Olisiko kuinka turvallinen
@@ -28,7 +28,7 @@ Plussat
 
 
 
-## How is it used?
+## Kuinka toimii?
 
 Kuva mahdollisesta robootista
 
@@ -38,6 +38,4 @@ Kuva mahdollisesta robootista
 Toimisi samalla tavalla kuin jo kodissa valmiina olevat työrobootit. Eli roboottille olisi tietynlainen sovellus, jolla pystyisi rajaamaan työalueen ja käynnistämään koneen sovelluksen kautta.
 
 
-## Challenges
 
-Kuten lumilinko niin tämäkään ei tuskin pystyisi painavaa / loskaista lunta poistamaan, johon tarvitsisi lumikolan / lumiauran
